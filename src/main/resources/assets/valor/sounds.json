@@ -1,0 +1,26 @@
+{
+  "toggle.sigma.enable": {
+    "category": "player",
+    "sounds": ["valor:toggle/sigma/enable"]
+  },
+  "toggle.sigma.disable": {
+    "category": "player",
+    "sounds": ["valor:toggle/sigma/disable"]
+  },
+  "toggle.rise.enable": {
+    "category": "player",
+    "sounds": ["valor:toggle/rise/enable"]
+  },
+  "toggle.rise.disable": {
+    "category": "player",
+    "sounds": ["valor:toggle/rise/disable"]
+  },
+  "toggle.quickmacro.enable": {
+    "category": "player",
+    "sounds": ["valor:toggle/quickmacro/enable"]
+  },
+  "toggle.quickmacro.disable": {
+    "category": "player",
+    "sounds": ["valor:toggle/quickmacro/disable"]
+  }
+}
